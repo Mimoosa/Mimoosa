@@ -6,5 +6,3 @@ and focused on building a career in **innovative industries**.
 ## 💻 Tech Stack
 - Python, JavaScript, React, Express, NestJS, Java
 - HTML/CSS, Git & GitHub
-
--->
