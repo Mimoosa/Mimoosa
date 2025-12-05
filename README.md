@@ -4,5 +4,9 @@ I am an ICT student specializing in **mobile development**, passionate about **s
 and focused on building a career in **innovative industries**.
 
 ## 💻 Tech Stack
-- Python, JavaScript, React, Express, NestJS, Java
-- HTML/CSS, Git & GitHub
+- Languages: Python, JavaScript, Java
+
+- Frontend: React, Next.js, HTML/CSS
+
+- Backend: Express, NestJS
+
